@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Cost Estimation",
+    "description": "Detailed construction cost estimates for residential, commercial, and renovation projects.",
+    "icon": "calculator"
+  },
+  {
+    "title": "Material Takeoff",
+    "description": "Clear quantity takeoffs for materials, finishes, structural elements, and trade packages.",
+    "icon": "ruler"
+  },
+  {
+    "title": "Bid Preparation",
+    "description": "Bid-ready pricing support that helps contractors submit professional and confident proposals.",
+    "icon": "file"
+  },
+  {
+    "title": "Project Budgeting",
+    "description": "Early-stage budget planning for owners, developers, architects, and construction teams.",
+    "icon": "chart"
+  },
+  {
+    "title": "Commercial Estimation",
+    "description": "Structured estimating support for offices, retail, hospitality, industrial, and multi-unit projects.",
+    "icon": "building"
+  }
+]

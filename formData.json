@@ -1,0 +1,22 @@
+{
+    "trades": [
+        "General Construction",
+        "Electrical",
+        "Plumbing",
+        "HVAC / Mechanical",
+        "Concrete & Masonry",
+        "Roofing"
+    ],
+    "projectTypes": [
+        "Commercial New Construction",
+        "Residential New Construction",
+        "Industrial / Warehouse",
+        "Government / Municipal"
+    ],
+    "deliverables": [
+        "Estimate",
+        "Formal Quote",
+        "Bid Proposal",
+        "Change Order Estimate"
+    ]
+}

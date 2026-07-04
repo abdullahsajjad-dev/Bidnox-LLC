@@ -1,0 +1,116 @@
+{
+  "about": {
+    "eyebrow": "About Bidnox Estimates",
+    "title": "Clear, assumption-led construction estimates for bids and budgets",
+    "text": "Bidnox LLC® is a reliable construction cost consulting firm specializing in accurate cost estimation and comprehensive bid management services. Our experienced consultants provide data-driven insights that help clients make informed decisions throughout every stage of their construction projects. We proudly serve public and private sector clients across the country, delivering dependable budgeting support and cost planning to help ensure successful project execution.",
+    "text2": "Our team of estimators and quantity surveyors are well-versed in the latest industry standards, software, and best practices. We offer a range of services including detailed cost estimates, material takeoffs, bid preparation support, and project budget planning. Whether you are a contractor, developer, or builder, we provide the expertise and resources needed to streamline your estimating process and achieve accurate results",
+    "image": "Image/img000.jpeg",
+    "imageAlt": "Estimators reviewing drawings and cost schedules"
+  },
+  "markets": [
+    {
+      "code": "USA",
+      "flag": "🇺🇸",
+      "title": "USA: Practical bid estimates",
+      "text": "Focus on direct and indirect cost visibility, subcontractor-ready quantities, and compliance with local procurement practices.",
+      "bullets": [
+        "Tender-ready takeoffs",
+        "Bid review and summary",
+        "Regional labour and material notes"
+      ]
+    },
+    {
+      "code": "UK",
+      "flag": "🇬🇧",
+      "title": "UK: NRM-aware cost planning",
+      "text": "Consistent measurement and reporting that aligns with common UK measurement standards and tender processes.",
+      "bullets": [
+        "NRM-compatible outputs",
+        "Tender-stage budgeting",
+        "Quantity breakdowns"
+      ]
+    },
+    {
+      "code": "AUS",
+      "flag": "🇦🇺",
+      "title": "Australia: Quantity surveying support",
+      "text": "Feasibility and preconstruction estimating that reflects Australian contract and procurement expectations.",
+      "bullets": [
+        "Feasibility budgeting",
+        "Trade package takeoffs",
+        "Builder support"
+      ]
+    }
+  ],
+  "why": [
+    {
+      "title": "Branded With Your Logo",
+      "text": "Every estimate, quote, and proposal carries your company logo and contact info — ready to send to your client.",
+      "icon": "price_tag"
+    },
+    {
+      "title": "Quantity-focused workflow",
+      "text": "Takeoffs are structured around trade quantities, materials, labour, and equipment needs.",
+      "icon": "ruler"
+    },
+    {
+      "title": "Regional positioning",
+      "text": "Content and service language now speaks directly to USA, UK, and Australian project expectations.",
+      "icon": "globe"
+    },
+    {
+      "title": "±10% Accuracy Guarantee",
+      "text": "Detailed, line-item takeoffs and pricing you can bid with confidence.",
+      "icon": "verified"
+    },
+    {
+      "title": "Fast Turnaround",
+      "text": "We respond within 1 business day and work to your bid deadline — fully remote, nationwide.",
+      "icon": "wallet"
+    },
+    {
+      "title": "Professional communication",
+      "text": "The contact flow asks for region, project type, scope, drawings, and deadline so estimates start with better information.",
+      "icon": "support"
+    }
+  ],
+  "stats": [
+    {
+      "value": 3,
+      "suffix": "",
+      "label": "Regions served"
+    },
+    {
+      "value": 10,
+      "suffix": "",
+      "label": "Service types"
+    },
+    {
+      "value": 2,
+      "suffix": "",
+      "label": "Report formats"
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Submit Your Project",
+      "text": "Fill out the form with your company info, logo, blueprints, or scope of work. All trades and sizes welcome."
+    },
+    {
+      "step": "02",
+      "title": "We Review & Confirm",
+      "text": "We'll review your submission and follow up with any clarifying questions within 1 business day. Need it sooner? Send a text or email and we'll prioritize your request."
+    },
+    {
+      "step": "03",
+      "title": "QuickBooks Invoice Sent",
+      "text": "You'll receive a professional QuickBooks invoice for the estimating service fee — easy, secure payment."
+    },
+    {
+      "step": "04",
+      "title": "Branded Estimate Delivered",
+      "text": "Your completed estimate, quote, or proposal is delivered with your company logo and contact information included"
+    }
+  ]
+}

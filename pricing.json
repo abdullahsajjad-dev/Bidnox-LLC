@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Starter",
+    "tagline": "For small residential projects",
+    "monthly": 750,
+    "currency": "$",
+    "features": [
+      "Up to 3 estimates per month",
+      "All trades covered",
+      "Branded with your logo",
+      "±10% accuracy guarantee",
+      "1 business day response"
+    ],
+    "highlight": false,
+    "cta": "Start Estimate"
+  },
+  {
+    "name": "Professional",
+    "tagline": "For contractors and builders",
+    "monthly": 1000,
+    "currency": "$",
+    "features": [
+      "Up to 5 estimates per month",
+      "All trades covered",
+      "Branded with your logo",
+      "±10% accuracy guarantee",
+      "Priority turnaround",
+      "Bid proposal preparation included"
+    ],
+    "highlight": true,
+    "cta": "Get Professional Plan"
+  },
+  {
+    "name": "Enterprise",
+    "tagline": "For large commercial scopes",
+    "monthly": 2400,
+    "currency": "$",
+    "features": [
+      "Up to 15 estimates per month",
+      "Dedicated estimator",
+      "All trades covered",
+      "Branded with your logo",
+      "±10% accuracy guarantee",
+      "Fastest priority turnaround"
+    ],
+    "highlight": false,
+    "cta": "Request Quote"
+  }
+]

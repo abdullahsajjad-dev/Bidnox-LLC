@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Michael Turner",
+    "role": "General Contractor",
+    "company": "Turner Build Group",
+    "country": "USA",
+    "quote": "Bidnox Estimates gave us a clean cost report and takeoff package that was easy to review with our client. The process felt professional from start to finish.",
+    "rating": 5
+  },
+  {
+    "name": "Emma Richardson",
+    "role": "Construction Manager",
+    "company": "Northline Projects",
+    "country": "UK",
+    "quote": "The estimate was clear, organized, and delivered within our bid window. Their communication was calm, precise, and very reliable.",
+    "rating": 5
+  },
+  {
+    "name": "Daniel Brooks",
+    "role": "Property Developer",
+    "company": "Apex Urban Developments",
+    "country": "Australia",
+    "quote": "We needed early budget clarity for a mixed-use project. Bidnox provided a practical breakdown that helped us make decisions quickly.",
+    "rating": 5
+  }
+]
